@@ -1,0 +1,23 @@
+// Aroy Language Error Handling Showcase
+// Uncomment sections to test specific errors
+
+// 1. Syntax Error: Missing closing parenthesis
+// write (10 + 5
+
+// 2. Syntax Error: Invalid variable declaration
+// int 123 = 5
+
+// 3. Syntax Error: Missing assignment operator
+// int x 10
+
+// 4. Runtime Error: Division by Zero
+// write 10 / 0
+
+// 5. Runtime Error: Undefined Variable
+// write unknown_var
+
+// 6. Runtime Error: Variable out of scope
+// {
+//     int z = 100
+// }
+// write z
